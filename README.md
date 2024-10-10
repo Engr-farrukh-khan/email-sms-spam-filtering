@@ -52,6 +52,10 @@ The model is deployed using **Streamlit**, allowing users to input email/SMS mes
   Precision	96.7%
   Recall	97.3%
   F1 Score	97.0%
- 
+
+## Future Improvements
+**Model Optimization**: Experimenting with different machine learning algorithms, such as Support Vector Machines (SVM) or neural networks, to further improve accuracy.
+**Integration**: Incorporating the model into existing email or SMS filtering systems to provide real-time spam filtering at scale.
+**Advanced NLP**: Implementing more advanced NLP techniques, such as word embeddings or deep learning models like LSTMs or transformers, for more sophisticated spam detection.
 
 
