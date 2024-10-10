@@ -53,10 +53,5 @@ The model is deployed using **Streamlit**, allowing users to input email/SMS mes
   Recall	97.3%
   F1 Score	97.0%
  
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
-## Contact
-Feel free to connect with me on LinkedIn or check out my GitHub profile for more projects.
 
 
