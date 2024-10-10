@@ -1,6 +1,6 @@
 # Email/SMS Spam Filtering Using Machine Learning
 
-This project is a machine learning solution for detecting spam in both email and SMS messages. It uses Natural Language Processing (NLP) techniques to classify messages as either spam or non-spam (ham). The project is deployed as a web app using **Streamlit**, allowing users to interact with the model and classify messages in real-time.
+This project is a machine-learning solution for detecting spam in both email and SMS messages. It uses Natural Language Processing (NLP) techniques to classify messages as either spam or non-spam (ham). The project is deployed as a web app using **Streamlit**, allowing users to interact with the model and classify messages in real-time.
 
 ## Features
 
@@ -45,7 +45,7 @@ The model is deployed using **Streamlit**, allowing users to input email/SMS mes
 
 
 ## Results
-**Accuracy**: The model achieved high accuracy in classifying messages as spam or non-spam on the test data.
+**Accuracy**: The model accurately classified messages as spam or non-spam on the test data.
 **Precision & Recall**: The model demonstrated strong performance in correctly classifying spam messages while minimizing false positives.
 **Metric	Value**
   Accuracy	98.5%
@@ -53,9 +53,21 @@ The model is deployed using **Streamlit**, allowing users to input email/SMS mes
   Recall	97.3%
   F1 Score	97.0%
 
+## Results
+
+- **Accuracy**: The model accurately classified messages as spam or non-spam on the test data.
+- **Precision & Recall**: The model demonstrated strong performance in correctly classifying spam messages while minimizing false positives.
+
+| Metric      | Value       |
+| ----------- | ----------- |
+| Accuracy    | 98.5%       |
+| Precision   | 96.7%       |
+| Recall      | 97.3%       |
+| F1 Score    | 97.0%       |
+
+
 ## Future Improvements
-**Model Optimization**: Experimenting with different machine learning algorithms, such as Support Vector Machines (SVM) or neural networks, to further improve accuracy.
-**Integration**: Incorporating the model into existing email or SMS filtering systems to provide real-time spam filtering at scale.
-**Advanced NLP**: Implementing more advanced NLP techniques, such as word embeddings or deep learning models like LSTMs or transformers, for more sophisticated spam detection.
 
-
+- **Model Optimization**: Experimenting with different machine learning algorithms, such as Support Vector Machines (SVM) or neural networks, to further improve accuracy.
+- **Integration**: Incorporating the model into existing email or SMS filtering systems to provide real-time spam filtering at scale.
+- **Advanced NLP**: Implementing more advanced NLP techniques, such as word embeddings or deep learning models like LSTMs or transformers, for more sophisticated spam detection.
